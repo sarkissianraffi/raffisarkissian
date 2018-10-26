@@ -720,7 +720,7 @@ h6 { font-size:18px; line-height:23px}
 .margin-nineteen-left {margin-left:10% !important}
 .margin-twenty-left{margin-left:10.5% !important}
 .margin-twenty-one-left{margin-left:11% !important}
-.margin-twenty-two-left{margin-left:11.5% !important}
+.margin-twenty-two-left{margin-left:5% !important}
 .margin-twenty-three-left{margin-left:12% !important}
 .margin-twenty-four-left{margin-left:12.5% !important}
 .margin-twenty-five-left{margin-left:13% !important}
@@ -1205,7 +1205,7 @@ section {border-bottom:1px solid #ececec}
 .one-third-screen {height: 700px;}
 .one-fourth-screen {height: 800px;}
 .one-fifth-screen {height: 900px;}
-.one-sixth-screen {height: 985px;}
+.one-sixth-screen {height: 730px;}
 
 /* round image  */
 .img-round{ width: 250px; border-radius: 50%; overflow: hidden;}
