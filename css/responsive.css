@@ -1148,7 +1148,7 @@
 
     /* section height  */
     .sm-one-second-screen {height: 450px;}
-    .sm-one-third-screen {height: 200px;}
+    .sm-one-third-screen {height: 400px;}
     .sm-one-fourth-screen {height: 600px;}
     .sm-one-fifth-screen {height: 650px;}
     .sm-one-sixth-screen {height: 750px;}
@@ -1519,48 +1519,6 @@
     .xs-no-margin-left{ margin-left:0 !important}
     .xs-no-margin-right{ margin-right:0 !important}    
     .xs-margin-lr-auto {margin-left:auto !important; margin-right:auto !important}
-
-    /* margin-bottom */
-    .xs-margin-one-half-bottom{margin-bottom: 0.5% !important}
-    .xs-margin-one-bottom{margin-bottom:1% !important}
-    .xs-margin-two-bottom{margin-bottom:1.5% !important}
-    .xs-margin-three-bottom{margin-bottom:2% !important}
-    .xs-margin-four-bottom{margin-bottom:2.5% !important}
-    .xs-margin-five-bottom{margin-bottom:3% !important}
-    .xs-margin-six-bottom{margin-bottom:3.5% !important}
-    .xs-margin-seven-bottom{margin-bottom:4% !important}
-    .xs-margin-eight-bottom {margin-bottom:4.5% !important}
-    .xs-margin-nine-bottom{margin-bottom:5% !important}
-    .xs-margin-ten-bottom{margin-bottom:5.5% !important}
-    .xs-margin-eleven-bottom{margin-bottom:6% !important}
-    .xs-margin-twelve-bottom{margin-bottom:6.5% !important}
-    .xs-margin-thirteen-bottom{margin-bottom:7% !important}
-    .xs-margin-fourteen-bottom{margin-bottom:7.5% !important}
-    .xs-margin-fifteen-bottom{margin-bottom:8% !important}
-    .xs-margin-sixteen-bottom{margin-bottom:8.5% !important}
-    .xs-margin-seventeen-bottom{margin-bottom:9% !important}
-    .xs-margin-eighteen-bottom{margin-bottom:9.5% !important}
-    .xs-margin-nineteen-bottom{margin-bottom:10% !important}
-    .xs-margin-twenty-bottom{margin-bottom:10.5% !important}
-    .xs-margin-twenty-one-bottom{margin-bottom:11% !important}
-    .xs-margin-twenty-two-bottom{margin-bottom:11.5% !important}
-    .xs-margin-twenty-three-bottom{margin-bottom:12% !important}
-    .xs-margin-twenty-four-bottom{margin-bottom:12.5% !important}
-    .xs-margin-twenty-five-bottom{margin-bottom:13% !important}
-    .xs-margin-twenty-six-bottom{margin-bottom:13.5% !important}
-    .xs-margin-twenty-seven-bottom{margin-bottom:14% !important}
-    .xs-margin-twenty-eight-bottom{margin-bottom:14.5% !important}
-    .xs-margin-twenty-nine-bottom{margin-bottom:15% !important}
-    .xs-margin-thirty-bottom{margin-bottom:15.5% !important}
-    .xs-margin-thirty-one-bottom{margin-bottom:16% !important}
-    .xs-margin-thirty-two-bottom{margin-bottom:16.5% !important}
-    .xs-margin-thirty-three-bottom{margin-bottom:17% !important}
-    .xs-margin-thirty-four-bottom{margin-bottom:17.5% !important}
-    .xs-margin-thirty-five-bottom{margin-bottom:18% !important}
-    .xs-margin-bottom-5px{ margin-bottom:5px !important}
-    .xs-margin-bottom-10px{ margin-bottom:10px !important}
-    .xs-margin-bottom-15px{ margin-bottom:15px !important}
-    .xs-margin-bottom-20px{ margin-bottom:20px !important}
 
     /* margin-top */
     .xs-margin-one-half-top{margin-top: 0.5% !important}
