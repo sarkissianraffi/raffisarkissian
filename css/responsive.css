@@ -1878,7 +1878,7 @@
     .xs-padding-top-40px{ padding-top:40px !important;}
     .xs-padding-top-45px{ padding-top:45px !important;}
     .xs-padding-top-50px{ padding-top:50px !important;}
-    .xs-padding-top-60px{ padding-top:60px !important;}
+    .xs-padding-top-60px{ padding-top:60px !important; padding-left: 30px; padding-right: 50px;}
     .xs-padding-bottom-5px{ padding-bottom:5px !important;}
     .xs-padding-bottom-10px{ padding-bottom:10px !important;}
     .xs-padding-bottom-15px{ padding-bottom:15px !important;}
