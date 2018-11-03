@@ -613,7 +613,6 @@
     .pricing-box-style4 .pricing-box { padding:45px 0;}
 
     /* client */
-    .client-logo-inner img { max-width: 220px; }
     .clients-section2 .outside-arrow-simple .owl-buttons .owl-prev{left:-50px; background:transparent;}
     .clients-section2 .outside-arrow-simple .owl-buttons .owl-next{right:-50px; background:transparent;}
 
@@ -2326,8 +2325,6 @@
     /*clients*/
     .clients-section2 .outside-arrow-simple .owl-buttons .owl-prev{left:30px; background:transparent;}
     .clients-section2 .outside-arrow-simple .owl-buttons .owl-next{right:30px; background:transparent;}
-    .clients-section4 .client-logo-inner, .clients-section3 .client-logo-inner { height: 130px;}
-
     .owl-dark-pagination .owl-buttons .owl-prev, .owl-dark-pagination .owl-buttons .owl-next { font-size: 28px; position: inherit; display: inline-block; background: transparent; margin: 0 5px; height: auto; width: auto;}
     .owl-dark-pagination .owl-buttons .owl-prev:hover, .owl-dark-pagination .owl-buttons .owl-next:hover{ color: inherit;}
     .owl-dark-pagination .owl-buttons{ text-align: center; margin-top: 10px;}
